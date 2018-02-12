@@ -1,4 +1,12 @@
+>> input (select)="onSelect($event)" 
+
+but
+>> input [ngValue]
 
 
-input (select)="onSelect($event)" 
-   => input [ngValue]
+
+>> foo implements OnInit {
+
+but 
+
+>> ngOnInit(): void {}
