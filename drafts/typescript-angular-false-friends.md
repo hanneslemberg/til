@@ -9,7 +9,7 @@ or [1].map((a:number) => { return a + 2; });
 or [1].map(function (a: number) { return a + 2 });
 ``` 
 
-```[1].map(value => value * 2)``` but not ```[1].mape(value => {v: value})```
+```[1].map(value => value * 2)``` but not ```[1].map(value => {v: value})```
 
 
  
