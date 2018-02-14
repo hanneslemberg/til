@@ -1,4 +1,4 @@
-```<input (select)="onSelect($event)">``` but ```<input [ngValue]>``` not ```<input [value]>```
+```<input (select)="onSelect($event)">``` but ```<input [ngValue]>```, not ```<input [value]>```
 
 ``foo implements OnInit {``` but ```public ngOnInit(): void {}```
 
