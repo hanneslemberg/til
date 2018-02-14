@@ -1,6 +1,6 @@
 ```<input (select)="onSelect($event)">``` but ```<input [ngValue]>```, not ```<input [value]>```
 
-``foo implements OnInit {``` but ```public ngOnInit(): void {}```
+```foo implements OnInit {``` but ```public ngOnInit(): void {}```
 
 ```
    [1].map(a => a + 2);
