@@ -14,3 +14,4 @@ or [1].map(function (a: number) { return a + 2 });
 
  
  
+```function (foo: number, bar: number|null)``` but ```function (foo: number, bar?: number)```
