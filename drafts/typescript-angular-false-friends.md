@@ -12,6 +12,9 @@ or [1].map(function (a: number) { return a + 2 });
 ```[1].map(value => value * 2)``` but not ```[1].map(value => {v: value})```
 
 
+```map(a => a - 1)``` but ```map(([a, b]) => a - 1)```
+
+
  
  
 ```function (foo: number, bar: number|null)``` but also ```function (foo: number, bar?: number)```
